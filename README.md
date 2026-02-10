@@ -219,7 +219,7 @@ http://localhost:8080
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/mKumar82/demo-java-task
 cd demo
 ```
 
@@ -266,7 +266,7 @@ OR run `DemoApplication.java` from IDE.
 
 # 🚀 Deployment
 
-- URL: `https://github.com/mKumar82/demo-java-task`
+- URL: 
 
 ---
 
