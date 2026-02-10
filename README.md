@@ -266,7 +266,7 @@ OR run `DemoApplication.java` from IDE.
 
 # 🚀 Deployment
 
-- URL: 
+- URL: `https://demo-java-task.onrender.com`
 
 ---
 
